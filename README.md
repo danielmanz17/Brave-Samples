@@ -1,5 +1,3 @@
-### Brave Samples
-
 <div style="display: flex; align-items: center;">
   <img src="spectrograms\sample.jpg" alt="Example" style="width: 150px; margin-right: 20px;">
   <div>
