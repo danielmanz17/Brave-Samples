@@ -2,21 +2,18 @@
 
 A selection of spectrogram & audio samples, produced by applying transformations to neural network architecture, using the Brave synthesiser. 
 
-<div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 40px;">
-  <img src="spectrograms/sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
-  <div>
-    <p>Applying a &Delta;x transformation of 14 at encoder 15.</p>
-  </div>
-</div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+  <img src="/assets/image1.jpg" alt="Image 1" style="width: 200px; margin-right: 20px;">
 
-<audio controls style="width: 350px;">
-  <source src="audio/sample.wav" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+  <div style="display: flex; flex-direction: column;">
+    <div>
+      <h3>First Image Title</h3>
+      <p>Description for the first image goes here.</p>
+    </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 40px;">
-  <img src="spectrograms/sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
-  <div>
-    <p>Applying a &Delta;x transformation of 14 at encoder 15.</p>
+    <audio controls style="margin-top: 10px; width: 300px;">
+      <source src="/assets/my-audio.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
   </div>
 </div>
