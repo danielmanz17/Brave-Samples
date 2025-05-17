@@ -7,7 +7,6 @@ A selection of spectrogram & audio samples, produced by applying transformations
 
   <div style="display: flex; flex-direction: column;">
     <div>
-      <h3>First Image Title</h3>
       <p>Description for the first image goes here.</p>
     </div>
 
