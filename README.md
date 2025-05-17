@@ -11,7 +11,7 @@ A selection of spectrogram & audio samples, produced by applying transformations
 </div>
 
 <audio controls style="width: 350px;">
-  <source src="audio/sample.wav.mp3" type="audio/mpeg">
+  <source src="audio/sample.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
