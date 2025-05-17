@@ -10,7 +10,7 @@ Here is an introductory sentence
   </div>
 </div>
 
-<audio controls style="width: 600px;">
+<audio controls style="width: 350px;">
   <source src="audio/sample.wav.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
