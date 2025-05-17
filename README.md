@@ -1,5 +1,7 @@
 <!-- Render the images and descriptions side by side -->
 
+Here is an introductory sentence
+
 <div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 40px;">
   <img src="spectrograms\sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
   <div>
