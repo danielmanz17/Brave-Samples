@@ -3,7 +3,7 @@
 A selection of spectrogram & audio samples, produced by applying transformations to neural network architecture, using the Brave synthesiser. 
 
 <div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 40px;">
-  <img src="spectrograms\sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
+  <img src="spectrograms/sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
   <div>
     <p><strong>Here is the text</strong> next to the image.</p>
     <p>This will render properly on GitHub.</p>
@@ -16,9 +16,8 @@ A selection of spectrogram & audio samples, produced by applying transformations
 </audio>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 40px;">
-  <img src="spectrograms\sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
+  <img src="spectrograms/sample.jpg" alt="Example" style="width: 350px; margin-right: 20px;">
   <div>
-    <p><strong>Here is the text</strong> next to the image.</p>
-    <p>This will render properly on GitHub.</p>
+    <p>Applting a delta x transformation of 14 at encoder 15.</p>
   </div>
 </div>
