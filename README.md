@@ -21,7 +21,7 @@ that have been applied.
   <img src="spectrograms/sample1.png" alt="Example" style="width: 650px; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <div>
-      <p>&delta;.</p>
+      <p>Adding a bias to all weights in layer encoder.1.net.bias, &Delta;y = 0.47.</p>
     </div>
     <audio controls style="width: 350px; margin-top: 10px;">
       <source src="audio/sample1.wav" type="audio/mpeg">
