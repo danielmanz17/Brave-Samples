@@ -1,13 +1,14 @@
 <!-- Rendering the spectrograms, alongside a description and the audio file -->
 
-A selection of spectrogram & audio samples, produced by applying transformations to neural network architecture, using the Brave synthesiser. 
+A selection of spectrogram & audio samples, produced by applying transformations to neural network architecture, using the 
+Brave synthesiser. Here, I present a spectrogram/raw audio file of the samples, along with a description of the transformations
+that have been applied.
 
 <div style="display: flex; align-items: center; margin-bottom: 40px; margin-top: 40px;">
   <img src="spectrograms/sample.png" alt="Example" style="width: 650px; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <div>
-      <p><strong>Here is the text</strong> next to the image.</p>
-      <p>This will render properly on GitHub.</p>
+      <p>The darbouka RAVE model without any transformations applied to the underlying network. This should act as a baseline when inspecting the other samples.</p>
     </div>
     <audio controls style="width: 350px; margin-top: 10px;">
       <source src="audio/sample.wav" type="audio/mpeg">
