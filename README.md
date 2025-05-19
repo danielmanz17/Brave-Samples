@@ -34,8 +34,7 @@ that have been applied.
   <img src="spectrograms/sample2.png" alt="Example" style="width: 650px; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <div>
-      <p><strong>Here is the text</strong> next to the image.</p>
-      <p>This will render properly on GitHub.</p>
+      <p>Applying &Delta;y = 0.3 at encoder.net.2.bias.</p>
     </div>
     <audio controls style="width: 350px; margin-top: 10px;">
       <source src="audio/sample2.wav" type="audio/mpeg">
@@ -48,8 +47,7 @@ that have been applied.
   <img src="spectrograms/sample3.png" alt="Example" style="width: 650px; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <div>
-      <p><strong>Here is the text</strong> next to the image.</p>
-      <p>This will render properly on GitHub.</p>
+      <p>Applying a scale factor of -0.79 to encoder.net.7.weight.</p>
     </div>
     <audio controls style="width: 350px; margin-top: 10px;">
       <source src="audio/sample3.wav" type="audio/mpeg">
@@ -62,8 +60,7 @@ that have been applied.
   <img src="spectrograms/sample4.png" alt="Example" style="width: 650px; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <div>
-      <p><strong>Here is the text</strong> next to the image.</p>
-      <p>This will render properly on GitHub.</p>
+      <p>Applying &Delta;y = -0.5 at encoder.net.10.weight.</p>
     </div>
     <audio controls style="width: 350px; margin-top: 10px;">
       <source src="audio/sample4.wav" type="audio/mpeg">
@@ -76,8 +73,7 @@ that have been applied.
   <img src="spectrograms/sample5.png" alt="Example" style="width: 650px; margin-right: 20px;">
   <div style="display: flex; flex-direction: column; justify-content: center;">
     <div>
-      <p><strong>Here is the text</strong> next to the image.</p>
-      <p>This will render properly on GitHub.</p>
+      <p>Applying &Delta;x = 0.195 at encoder.net.14.weight.</p>
     </div>
     <audio controls style="width: 350px; margin-top: 10px;">
       <source src="audio/sample5.wav" type="audio/mpeg">
